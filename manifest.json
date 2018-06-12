@@ -1,0 +1,16 @@
+{
+  "name": "choo-starter-app",
+  "short_name": "choo-starter",
+  "description": "Starter Kit",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#ffeeee",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ]
+}

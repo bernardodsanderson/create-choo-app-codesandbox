@@ -1,5 +1,5 @@
-# portfolio-choo
-Portfolio/Blog
+# create-choo-app template
+A template to start you own Choo app!
 
 ## Commands
 Command                | Description                                      |

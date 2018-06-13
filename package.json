@@ -25,6 +25,6 @@
     "dependency-check": "^3.1.0",
     "standard": "^11.0.1"
   },
-  "keywords": [],
+  "keywords": ["choo", "choojs"],
   "description": "🚂🚋🚋🚋🚋🚋 - create-choo-app starter kit"
 }
